@@ -1,6 +1,6 @@
 # Capstone: Bitumen-Conversion-Using-Slurry-Hydrocracking
-**Project Timeline**
-Start date: January 2020
+**Project Timeline**  
+Start date: January 2020  
 End date: June 2020
 
 **Rationale**  
